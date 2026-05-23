@@ -11,7 +11,7 @@ A full-stack blog platform built with **React** and **Appwrite**, featuring user
 
 ## 🌐 Live Demo
 
-🔗 [megablog.vercel.app](https://megablog.vercel.app) *(update with your actual link)*
+🔗 [megablog.vercel.app](https://megablog-app-eight.vercel.app/) 
 
 ---
 
